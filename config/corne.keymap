@@ -35,10 +35,10 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&none  &kp N1          &kp UP_ARROW    &kp LESS_THAN    &kp GREATER_THAN  &kp KP_LEFT_PARENTHESIS    &kp KP_RIGHT_PARENTHESIS  &kp KP_NUMBER_3  &kp KP_NUMBER_6  &kp KP_NUMBER_9  &kp N0     &none
-&none  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp ASTRK         &kp LEFT_BRACKET           &kp RIGHT_BRACKET         &kp KP_NUMBER_2  &kp KP_NUMBER_5  &kp KP_NUMBER_8  &kp PLUS   &none
-&none  &kp TILDE       &kp AT_SIGN     &kp POUND        &kp DOLLAR        &kp LEFT_BRACE             &kp RIGHT_BRACE           &kp KP_NUMBER_1  &kp KP_NUMBER_4  &kp KP_NUMBER_7  &kp MINUS  &none
-                                       &kp LGUI         &trans            &kp SPACE                  &kp RET                   &trans           &kp KP_N0
+&none  &kp N1          &kp UP_ARROW    &kp LESS_THAN    &kp GREATER_THAN  &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &kp KP_N7        &kp KP_N8        &kp KP_NUMBER_9  &kp N0     &none
+&none  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp ASTRK         &kp LEFT_BRACKET        &kp RIGHT_BRACKET      &kp KP_N4        &kp KP_NUMBER_5  &kp KP_N6        &kp PLUS   &none
+&none  &kp TILDE       &kp AT_SIGN     &kp POUND        &kp DOLLAR        &kp LEFT_BRACE          &kp RIGHT_BRACE        &kp KP_NUMBER_1  &kp KP_N2        &kp KP_N3        &kp MINUS  &none
+                                       &kp LGUI         &trans            &kp SPACE               &kp RET                &trans           &kp KP_N0
             >;
         };
 
