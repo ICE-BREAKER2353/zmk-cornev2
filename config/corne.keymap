@@ -37,7 +37,7 @@
             bindings = <
 &none  &kp SEMICOLON   &kp UP_ARROW    &kp LESS_THAN    &kp GREATER_THAN  &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &kp N7        &kp N8  &kp N9  &kp EQUAL  &none
 &none  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp ASTRK         &kp LEFT_BRACKET        &kp RIGHT_BRACKET      &kp N4        &kp N5  &kp N6  &kp SEMI   &none
-&none  &kp TILDE       &kp AT_SIGN     &kp POUND        &kp DOLLAR        &kp LEFT_BRACE          &kp RIGHT_BRACE        &kp N1        &kp N2  &kp N3  &kp MINUS  &none
+&none  &kp GRAVE       &kp AT_SIGN     &kp POUND        &kp DOLLAR        &kp LEFT_BRACE          &kp RIGHT_BRACE        &kp N1        &kp N2  &kp N3  &kp MINUS  &none
                                        &kp BACKSPACE    &trans            &kp ENTER               &kp SPACE              &kp LEFT_WIN  &kp N0
             >;
         };
